@@ -1,4 +1,4 @@
-// Lab 2 Smolianova Varvara (Second part)
+// Lab 2  (Second part)
 import java.util.Scanner;
 public class Lab22 {
 
